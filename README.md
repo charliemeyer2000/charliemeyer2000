@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https : //profile-counter.glitch.me/{charliemeyer2000}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{charliemeyer2000}/count.svg)
 
 <!--
 **charliemeyer2000/charliemeyer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
