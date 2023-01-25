@@ -1,6 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
 
-![Visitor Count](https://profile-counter.glitch.me/{charliemeyer2000}/count.svg)
+</div>
 
 <!--
 **charliemeyer2000/charliemeyer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
