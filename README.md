@@ -1,6 +1,7 @@
 # 🤓 Charlie Meyer
 
-**`Aspiring software developer`**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+software+developer;Nerd+at+heart)](https://git.io/typing-svg)
+
 <!--
 **charliemeyer2000/charliemeyer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
