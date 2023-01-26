@@ -1,7 +1,7 @@
-<p text-align="center">
+<p align="center">
  <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Charlie+Meyer" alt="Typing SVG" /></a>
 </p>
-<p text-align="center">
+<p align="center">
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+app+developer;Computer+science+student+at+UVA;Node+and+React+fanboy;Raspberry+PI+%26+Arduino+tinkerer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
