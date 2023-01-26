@@ -51,8 +51,8 @@
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Resources </h1>
     </summary>
     <div>
-            <p style="color: #FFDEAD; display: inline-block; vertical-align: 1.7em" > "Always pass on what you have learned." - Yoda </p>
             <img src="https://media1.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif" alt="Yoda" style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" width=60; height=60> 
+            <p style="color: #FFDEAD; display: inline-block; vertical-align: 1.7em" > "Always pass on what you have learned." - Yoda </p>
     </div>
     <div>
     <p style="color: #FFDEAD">
