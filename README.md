@@ -31,8 +31,13 @@
         <img src="images/cat.gif" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" >GitHub Stats and Activity </h1>
     </summary>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charliemeyer2000&theme=react&line_height=40&hide=css"/> 
+    <img align="center" src="https://streak-stats.demolab.com?user=charliemeyer2000"/>
 
 </details>
+
+
+
 
 
 
