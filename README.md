@@ -14,7 +14,10 @@
 <details closed display="flex" align-items="center" color="#FFDEAD">
     <summary >
         <img alt="Whispering..." src="https://media0.giphy.com/media/2sjwBnNlY4CPyr8goo/giphy.gif?cid=ecf05e47l146d6ewk4ppz41is9okgs603cayja2jn2om2paa&rid=giphy.gif&ct=s" width="60" height="60" style="display: inline-block; vertical-align:-1em" href="#">
+        <!-- 
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
+        -->
+        <span style="font-size: 2em; font-weight; color: #FF6347; display: inline-block; border-bottom:none;">Projects</span>
     </summary>
     <div>
         <ul>
