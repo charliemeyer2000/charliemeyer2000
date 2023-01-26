@@ -6,7 +6,7 @@
 </p>
 
 <p style="color: #FFDEAD">
-👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves designing things - websites, readme's, and much more. My repositories are just getting started, and I hope my page expands to something great as my coding experience develops. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
+👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
 </p>
 
 <hr>
@@ -88,6 +88,7 @@
             <li><a href="https://mui.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Mui</a></li>
             <li><a href="https://developers.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Developers</a></li>
             <li><a href="https://www.vultr.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Vultr</a></li>
+            <li><a href="https://github.com/markodenic/web-development-resources"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub Repo of WebDev Resources</a></li>
             <li><a href="https://domains.google/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Domains</a></li>
             <li><a href="https://www.codecademy.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Codeacademy</a></li>
             <li><a href="https://github.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Git/Github</a></li>
