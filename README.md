@@ -115,7 +115,7 @@
 
 <hr>
 
-<p style="color: #FFDEAD; text-align:center;"> CopiedRightInFridgeMint © CharlieMeyer 2023
+<p style="color: #FFDEAD;" align="center"> CopiedRightInFridgeMint © CharlieMeyer 2023
 
 
 
