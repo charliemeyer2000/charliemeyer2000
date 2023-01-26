@@ -12,8 +12,8 @@
 <hr>
 
 <details closed display="flex" align-items="center" color="#FFDEAD">
-    <summary>
-        <img alt="Whispering..."  class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="60" height="60" style="display: inline-block;">
+    <summary >
+        <img alt="Whispering..." src="https://github.githubassets.com/images/mona-whisper.gif" width="60" height="60" style="display: inline-block; vertical-align:-1em" href="#">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
     </summary>
     <div>
