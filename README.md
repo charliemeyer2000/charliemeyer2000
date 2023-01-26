@@ -5,7 +5,7 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+app+developer;Computer+science+student+at+UVA;Node+and+React+fanboy;Raspberry+PI+%26+Arduino+tinkerer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<p>
+<p style="color: #FFDEAD">
 👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves designing things - websites, readme's, and much more. My repositories are just getting started, and I hope my page expands to something great as my coding experience develops. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
 </p>
 
@@ -18,7 +18,7 @@
     </summary>
     <div>
         <ul>
-            <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">My personal website repository</li>
+            <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" ><p style="color: #FFDEAD">My personal website</p></li>
             <li><a href="https://github.com/charliemeyer2000/TwitterToLCD" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">TwitterToLCD</li>
             <li><a href="https://github.com/charliemeyer2000/SpotipyJoystick" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">SpotipyJoystick </a></li>
             <li><a href="https://github.com/IROATUVA" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">IRO Treasurer Site</a></li>
