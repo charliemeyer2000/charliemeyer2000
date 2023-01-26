@@ -6,7 +6,7 @@
 </p>
 
 <p style="color: #FFDEAD">
-👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
+👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Becuase of security reasons, GitHub markdown is a little different than regular markdown - text can't have colors, and a lot of styling doesn't work. If you look at this readme on VSCode or any other markdown viewer, it looks better. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
 </p>
 
 <hr>
@@ -45,7 +45,7 @@
 
 </details>
 
-<details open display="flex" align-items="center" color="#FFDEAD">
+<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media2.giphy.com/media/40a8jFMt0sc73UtpaH/200w.gif?cid=82a1493brpxy3v7hnpn842jcy799r3y76v3kfz9i92q7pgpb&rid=200w.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Resources </h1>
