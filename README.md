@@ -50,13 +50,15 @@
         <img src="https://media2.giphy.com/media/40a8jFMt0sc73UtpaH/200w.gif?cid=82a1493brpxy3v7hnpn842jcy799r3y76v3kfz9i92q7pgpb&rid=200w.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Resources </h1>
     </summary>
-    <div style="display:flex;align-items:center;">
-        <p style="color: #FFDEAD"> "Always pass on what you have learned." - Yoda </p>
-        <img src="https://media1.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif" alt="Yoda" style="display: inline-block; vertical-align; middle;" width=60; height=60>
+    <div>
+            <img src="https://media1.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif" alt="Yoda" style=" float: right;" width=60; height=60>
+        <p style="color: #FFDEAD;" > "Always pass on what you have learned." - Yoda </p>
     </div>
+    <div>
     <p style="color: #FFDEAD">
     Throughout my coding journey, I've used tons and tons of resources, almost all free. In an attempt to "give back," below is a (non-extensive and unordered) list of all resources I've used to get me to where I am today. These include websites, web apps, apps, creators, and much more.
     </p>
+    </div>
     <ul>
         <li><h2 style="color: #FFDEAD">YouTube Creators</h2>
         <ul>
