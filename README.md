@@ -6,7 +6,7 @@
 </p>
 
 <p style="color: #FFDEAD">
-👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
+👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Becuase of security reasons, GitHub markdown is a little different than regular markdown - text can't have colors, and a lot of styling doesn't work. If you look at this readme on VSCode or any other markdown viewer, it looks better. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
 </p>
 
 <hr>
