@@ -18,7 +18,7 @@
     </summary>
     <div>
         <ul>
-            <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" ><p style="color: #FFDEAD">My personal website</p></li>
+            <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li>
             <li><a href="https://github.com/charliemeyer2000/TwitterToLCD" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">TwitterToLCD</li>
             <li><a href="https://github.com/charliemeyer2000/SpotipyJoystick" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">SpotipyJoystick </a></li>
             <li><a href="https://github.com/IROATUVA" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">IRO Treasurer Site</a></li>
