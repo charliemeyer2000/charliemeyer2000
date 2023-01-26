@@ -45,14 +45,14 @@
 
 </details>
 
-<details closed display="flex" align-items="center" color="#FFDEAD">
+<details open display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media2.giphy.com/media/40a8jFMt0sc73UtpaH/200w.gif?cid=82a1493brpxy3v7hnpn842jcy799r3y76v3kfz9i92q7pgpb&rid=200w.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Resources </h1>
     </summary>
     <div>
-            <img src="https://media1.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif" alt="Yoda" style=" float: right;" width=60; height=60>
-        <p style="color: #FFDEAD;" > "Always pass on what you have learned." - Yoda </p>
+            <p style="color: #FFDEAD; display: inline-block; vertical-align: 1.7em" > "Always pass on what you have learned." - Yoda </p>
+            <img src="https://media1.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif" alt="Yoda" style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" width=60; height=60> 
     </div>
     <div>
     <p style="color: #FFDEAD">
