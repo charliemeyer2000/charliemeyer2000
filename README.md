@@ -7,8 +7,6 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Computer+science+student+at+UVA;Node+and+React+fanboy;Raspberry+PI+%26+Arduino+tinkerer;Professional Googler; Late-night+coffee+drinker;" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=charliemeyer2000&repo=website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=charliemeyer2000&repo=website">
 
 <p style="color: #FFDEAD">
 👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Becuase of security reasons, GitHub markdown is a little different than regular markdown - text can't have colors, and a lot of styling doesn't work. If you look at this readme on VSCode or any other markdown viewer, it looks better. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
