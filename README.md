@@ -4,7 +4,7 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Charlie+Meyer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Node+and+React+fanboy;Raspberry+PI+%26+Arduino+tinkerer;Professional Googler; Late-night+coffee+drinker;Future+stable+diffusion+fanatic;LaTeX+and+Markdown+lover;Still+can't+exit+VIM;Stardew+Valley+stan;" alt="Typing SVG" /></a>
+    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=01001110+01100101+01110010 01100100+00100001;Aspiring+full-stack+developer;Node+and+React+fanboy;Raspberry+PI+%26+Arduino+tinkerer;Professional Googler; Late-night+coffee+drinker;Future+stable+diffusion+fanatic;LaTeX+and+Markdown+lover;Still+can't+exit+VIM;Stardew+Valley+stan;" alt="Typing SVG" /></a>
 </p>
 
 
