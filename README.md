@@ -122,6 +122,8 @@
 
 <p style="color: #FFDEAD;" align="center"> CopiedRightInFridgeMint © CharlieMeyer 2023
 
+<img id="example-view" align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=charlie.g.meyer&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=000000&amp;bar_color=53b14f&amp;bar_color_cover=true">
+
 
 
 
