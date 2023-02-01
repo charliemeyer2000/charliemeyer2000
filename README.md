@@ -25,6 +25,8 @@
             <li><a href="https://github.com/charliemeyer2000/TwitterToLCD" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">TwitterToLCD</li>
             <li><a href="https://github.com/charliemeyer2000/SpotipyJoystick" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">SpotipyJoystick </a></li>
             <li><a href="https://github.com/IROATUVA" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">IRO Treasurer Site</a></li>
+            <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">Mystery Project🥸</a></li>
+            <li><a href="https://github.com/charliemeyer2000?tab=repositories" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">All Repositories</a></li>
         </ul>
     </div>
 </details>
@@ -36,11 +38,10 @@
     </summary>
     <p style="color: #FFDEAD">Check out my GitHub streak! Hopefully when you're reading this it's not zero, but you never know... school is busy sometimes! I'm just getting started with coding, but I hope to upload lots of resources, projects, and other things. </p>
     <br>
-    <img align="center" style="display:block;margin-left:auto;margin-right:auto;" src="https://streak-stats.demolab.com?
-    user=charliemeyer2000&theme=react&line_height=40"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=charliemeyer2000&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" alt="bear" data-canonical-src="https://github-readme-stats.vercel.app/api?username=charliemeyer2000&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" style="max-width: 60%"align="center" >
     <br>
     <p style="color: #FFDEAD">Oh, also check out what i'm listening to! Or, not... I use Apple Music (¯\_(ツ)_/¯) whose API is much more annoying. They make you sign up for a developer program, and access to information is much more limited :( but if i'm listening to Spotify, that's what im listening to!</p>
-    <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=charlie.g.meyer&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;bar_color=53b14f&amp;bar_color_cover=false" style="display:block;margin-left:auto;margin-right:auto;">
+    <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=charlie.g.meyer&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;bar_color=53b14f&amp;bar_color_cover=false" align="center">
 
 </details>
 
