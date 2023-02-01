@@ -29,13 +29,18 @@
     </div>
 </details>
 
-<details closed display="flex" align-items="center" color="#FFDEAD">
+<details open display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media3.giphy.com/media/1hCn9kUdtA65wDSvXI/giphy.gif?cid=6c09b95277f10de8cba9902fa4930da65ee58a426cce53bb&rid=giphy.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" >GitHub Stats and Activity </h1>
     </summary>
-    <img align="center" style="display:block;margin-left:auto;margin-right:auto;" src="https://streak-stats.demolab.com?user=charliemeyer2000&theme=react&line_height=40"/>
-    <img id="example-view" text-align="center" style="display:block;margin-left:auto;margin-right:auto;" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=charlie.g.meyer&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=000000&amp;bar_color=53b14f&amp;bar_color_cover=true">
+    <p style="color: #FFDEAD">Check out my GitHub streak! Hopefully when you're reading this it's not zero, but you never know... school is busy sometimes! I'm just getting started with coding, but I hope to upload lots of resources, projects, and other things. </p>
+    <br>
+    <img align="center" style="display:block;margin-left:auto;margin-right:auto;" src="https://streak-stats.demolab.com?
+    user=charliemeyer2000&theme=react&line_height=40"/>
+    <br>
+    <p style="color: #FFDEAD">Oh, also check out what i'm listening to! Or, not... I use Apple Music (¯\_(ツ)_/¯) whose API is much more annoying. They make you sign up for a developer program, and access to information is much more limited :( but if i'm listening to Spotify, that's what im listening to!</p>
+    <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=charlie.g.meyer&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;bar_color=53b14f&amp;bar_color_cover=false" style="display:block;margin-left:auto;margin-right:auto;">
 
 </details>
 
