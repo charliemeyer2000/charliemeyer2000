@@ -31,12 +31,12 @@
     </div>
 </details>
 
-<details closed display="flex" align-items="center" color="#FFDEAD">
+<details open display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media3.giphy.com/media/1hCn9kUdtA65wDSvXI/giphy.gif?cid=6c09b95277f10de8cba9902fa4930da65ee58a426cce53bb&rid=giphy.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" >GitHub Stats and Activity </h1>
     </summary>
-    <p style="color: #FFDEAD">Check out my GitHub streak!I'm just getting started with coding, but I hope to upload lots of resources, projects, and other things. I wonder what repo will be my first star ^_^</p>
+    <p style="color: #FFDEAD">Check out my GitHub streak! Hopefully when you're reading this it's not zero, but you never know... school is busy sometimes! I'm just getting started with coding, but I hope to upload lots of resources, projects, and other things. </p>
     <br>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=charliemeyer2000&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" alt="bear" data-canonical-src="https://github-readme-stats.vercel.app/api?username=charliemeyer2000&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" style="max-width: 50%" align="center" >
@@ -75,96 +75,58 @@
         <li><h2 style="color: #FFDEAD">YouTube Creators</h2>
         <ul>
             <li style="display:inline"><a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noopener noreferrer"style="color: #FFD700">WebDev Simplified</a></li>
+            <!-- 
             <li style="display:inline; color: #FFD700"> | </li>
+            I would add bars between everythingn but github markdown doesn't style things horizontally for lists.
+            -->
             <li style="display:inline"><a href="https://www.youtube.com/@LukeSmithxyz" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Luke Smith</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@Fireship" style="color: #FFD700"target="_blank" rel="noopener noreferrer">FireShip</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@freecodecamp" style="color: #FFD700"target="_blank" rel="noopener noreferrer">freeCodeCamp.org</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@supersimpledev" style="color: #FFD700"target="_blank" rel="noopener noreferrer">SuperSimpleDev</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@itsdineshvaryani" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Dinesh Varyani</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@piratekingdom"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Pirate King</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@tom7"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Suckerpinch/Tom7</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@paulmcwhorter"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Paul McWhorter</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@AutomationBD"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Automation BD</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@BenEater"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Ben Eater</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@SeniorMarsTries"style="color: #FFD700"target="_blank" rel="noopener noreferrer">SeniorMars</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@TraversyMedia"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Traversy Media</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@Darwady2"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Dan Arwady</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/@bawad"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Ben Awad</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.youtube.com/c/FKnight"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Forrest Knight</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
         </ul>
         </li> 
         <li><h2 style="color: #FFDEAD">Helpful Websites/Tools</h2>
         <ul>
             <li style="display:inline"><a href="https://openai.com/blog/chatgpt/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">ChatGPT</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://stackoverflow.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Stack Overflow</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://midjourney.com/home/?callbackUrl=%2Fapp%2F"style="color: #FFD700"target="_blank" rel="noopener noreferrer">MidJourney</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.freecodecamp.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">FreeCodeCamp</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://mui.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Mui</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://developers.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Developers</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.vultr.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Vultr</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://github.com/markodenic/web-development-resources"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub Repo of WebDev Resources</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://domains.google/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Domains</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.codecademy.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Codeacademy</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://github.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Git/Github</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.svgrepo.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">SVGRepo</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.figma.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Figma</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://mxtoolbox.com/diagnostic.aspx"style="color: #FFD700"target="_blank" rel="noopener noreferrer">MXToolbox</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.wireshark.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Wireshark</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
         </ul>
         <li><h2 style="color: #FFDEAD">My Workflow</h2>
         <ul>
             <li style="display:inline"><a href="https://www.notion.so/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Notion</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://code.visualstudio.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">VSCode</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://pandoc.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Pandoc</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.sublimetext.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Sublime Text</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://jupyter.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Jupyter</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.mozilla.org/en-US/firefox/new/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Firefox</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"> <a href="https://www.figma.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Figma</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://discord.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Discord</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://open.spotify.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Spotify</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
             <li style="display:inline"><a href="https://www.jetbrains.com/idea/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">IntelliJ</a></li>
-            <li style="display:inline; color: #FFD700"> | </li>
         </ul>
     </ul>
 
