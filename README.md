@@ -31,12 +31,12 @@
     </div>
 </details>
 
-<details open display="flex" align-items="center" color="#FFDEAD">
+<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media3.giphy.com/media/1hCn9kUdtA65wDSvXI/giphy.gif?cid=6c09b95277f10de8cba9902fa4930da65ee58a426cce53bb&rid=giphy.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" >GitHub Stats and Activity </h1>
     </summary>
-    <p style="color: #FFDEAD">Check out my GitHub streak! Hopefully when you're reading this it's not zero, but you never know... school is busy sometimes! I'm just getting started with coding, but I hope to upload lots of resources, projects, and other things. </p>
+    <p style="color: #FFDEAD">Check out my GitHub streak!I'm just getting started with coding, but I hope to upload lots of resources, projects, and other things. I wonder what repo will be my first star ^_^</p>
     <br>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=charliemeyer2000&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" alt="bear" data-canonical-src="https://github-readme-stats.vercel.app/api?username=charliemeyer2000&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=dark" style="max-width: 50%" align="center" >
