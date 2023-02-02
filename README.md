@@ -31,7 +31,7 @@
     </div>
 </details>
 
-<details open display="flex" align-items="center" color="#FFDEAD">
+<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media3.giphy.com/media/1hCn9kUdtA65wDSvXI/giphy.gif?cid=6c09b95277f10de8cba9902fa4930da65ee58a426cce53bb&rid=giphy.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" >GitHub Stats and Activity </h1>
@@ -57,7 +57,7 @@
 
 </details>
 
-<details open display="flex" align-items="center" color="#FFDEAD">
+<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media2.giphy.com/media/40a8jFMt0sc73UtpaH/200w.gif?cid=82a1493brpxy3v7hnpn842jcy799r3y76v3kfz9i92q7pgpb&rid=200w.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Resources </h1>
