@@ -4,12 +4,12 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Charlie+Meyer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Node+and+React+fanboy;Raspberry+PI+%26+Arduino+tinkerer;Professional Googler; Late-night+coffee+drinker;Future+stable+diffusion+fanatic;LaTeX+and+Markdown+lover;Still+can't+exit+VIM;Stardew+Valley+stan;Kind-of+understands+a+u-net?;01001110+01100101+01110010+01100100;Can+center+a+div,+on+occasion;" alt="Typing SVG" /></a>
+    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Aspiring+full-stack+developer;Node+and+React+fanboy;Raspberry+PI+%26+Arduino+tinkerer;Professional Googler; Late-night+coffee+drinker;LaTeX+and+Markdown+lover;Still+can't+exit+VIM;Stardew+Valley+stan;Kind-of+understands+a+u-net?;01001110+01100101+01110010+01100100;Can+center+a+div,+on+occasion;" alt="Typing SVG" /></a>
 </p>
 
 
 <p style="color: #FFDEAD">
-👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Becuase of security reasons, GitHub markdown is a little different than regular markdown - text can't have colors, and a lot of styling doesn't work. If you look at this readme on VSCode or any other markdown viewer, it looks better. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
+👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves coding things - websites, readme's, Pi projects and much more. The goal of my GitHub is to be a place to display my projects and also be a space for new developers to find useful resources to get started. Becuase of security reasons, GitHub markdown is a little different than regular markdown - text can't have colors, and a lot of styling doesn't work. If you look at this readme on VSCode or any other markdown viewer, it looks a bit better. I personally believe GitHub and personal websites are much better than LinkedIn to show off who you are & what you're passionate about. I have a LinkedIn, but I'd prefer you look here instead! Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
 </p>
 
 <hr>
@@ -31,7 +31,7 @@
     </div>
 </details>
 
-<details open display="flex" align-items="center" color="#FFDEAD">
+<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media3.giphy.com/media/1hCn9kUdtA65wDSvXI/giphy.gif?cid=6c09b95277f10de8cba9902fa4930da65ee58a426cce53bb&rid=giphy.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" >GitHub Stats and Activity </h1>
@@ -57,7 +57,7 @@
 
 </details>
 
-<details open display="flex" align-items="center" color="#FFDEAD">
+<details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media2.giphy.com/media/40a8jFMt0sc73UtpaH/200w.gif?cid=82a1493brpxy3v7hnpn842jcy799r3y76v3kfz9i92q7pgpb&rid=200w.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Resources </h1>
