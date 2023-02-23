@@ -128,6 +128,14 @@
             <li style="display:inline"><a href="https://open.spotify.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Spotify</a></li>
             <li style="display:inline"><a href="https://www.jetbrains.com/idea/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">IntelliJ</a></li>
         </ul>
+        <li><h2 style="color: #FFDEAD">Resources for my Readme</h2>
+        <ul>
+            <li style="display:inline"><a href="https://github.com/kittinan/spotify-github-profile"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Display Spotify Activity</a></li>
+            <li style="display:inline"><a href="https://github.com/anuraghazra/github-readme-stats"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub Readme Stats</a></li>
+            <li style="display:inline"><a href="https://github.com/DenverCoder1/readme-typing-svg"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Typing "Animation"</a></li>
+            <li style="display:inline"><a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Collection of Great Readme's!</a></li>
+            <li style="display:inline"><a href="https://giphy.com" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Find Gifs!</a></li>
+            <li style="display:inline"><a href="https://gist.github.com/rxaviers/7360908" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Emojis for MD/Copy and Paste</a></li>
     </ul>
 
 </details>
