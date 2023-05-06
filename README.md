@@ -4,7 +4,7 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Charlie+Meyer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Full-stack+developer;kubectl apply -f ingress.yml;Professional Proompter;Late-night+coffee+drinker;$\forall_x \in \mathbb{N}$;:wq;int getRandomNumber(){return 4;};Can+center+a+div,+on+occasion;" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
+    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Full-stack+developer;kubectl apply -f ingress.yml;Professional Proompter;Late-night+coffee+drinker;$\forall_x \in \mathbb{N}$;:wq;getRandomNumber(){return 4;};Can+center+a+div,+on+occasion;" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
 </p>
 
 
