@@ -140,6 +140,7 @@
                 <li style="display:inline"><a href="https://firebase.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Firebase</a></li>
                 <li style="display:inline"><a href="https://cloud.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Cloud</a></li>
                 <li style="display:inline"><a href="https://vercel.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Vercel</a></li>
+                <li style="display:inline"><a href="https://github.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub</a></li>
             </ul>
         <li><h2 style="color: #FFDEAD">Resources for my Readme</h2>
         <ul>
