@@ -24,7 +24,7 @@
             <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li>
             <!-- <li><a href="https://github.com/charliemeyer2000/TwitterToLCD" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">TwitterToLCD</li> -->
             <!-- <li><a href="https://github.com/IROATUVA" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">IRO Treasurer Site</a></li> -->
-            <li><a href="https://github.com/charliemeyer2000/logging-repository" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">Repo of my Changes</a></li>
+            <li><a href="https://github.com/charliemeyer2000/logging-repository" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">Logging Repository</a></li>
             <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">A Mystery Project🥸</a></li>
             <li><a href="https://github.com/charliemeyer2000?tab=repositories" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">All Repositories</a></li>
         </ul>
