@@ -8,7 +8,7 @@
 </p>
 
 <p style="color: #FFDEAD">
-👋 Welcome to my GitHub! I'm Charlie Meyer, a full-time student at UVA who also loves to code things - full-stack applications, and ml models, and much more. I personally believe GitHub and personal websites are much better than LinkedIn to show off who you are & what you're passionate about. I have a LinkedIn, but I'd prefer you look here instead! There are tons of incredibly helpful resources including resources I've used throughout my coding journey, so check them out. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and the startup i'm working on <a href="https://hymnai.net" target="_blank" rel="noopener noreferrer" style="color: #FFD700;"> hymnai.net </a> and email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
+👋 Welcome to my GitHub! Check out my repositories to see stuff i've built, but in these dropdown menus below, there are tons of incredibly helpful resources including resources I've used throughout my coding journey, so check them out. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and stay tuned for more MVP's ill be churning out through my startup journey. Email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
 </p>
 
 <hr>
@@ -20,7 +20,7 @@
     </summary>
     <div>
         <ul>
-            <li><a href="https://hymnai.net" target="_blank" rel="noopener noreferrer" style="color: #FFD700">HymnAI</a></li>
+            <!-- <li><a href="https://hymnai.net" target="_blank" rel="noopener noreferrer" style="color: #FFD700">HymnAI</a></li> -->
             <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li>
             <!-- <li><a href="https://github.com/charliemeyer2000/TwitterToLCD" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">TwitterToLCD</li> -->
             <!-- <li><a href="https://github.com/IROATUVA" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">IRO Treasurer Site</a></li> -->
