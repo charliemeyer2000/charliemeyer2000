@@ -4,7 +4,7 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Charlie+Meyer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Full-stack+developer;kubectl apply -f ingress.yml;Professional Proompter;Late-night+coffee+drinker;$\forall_x \in \mathbb{N}$;:wq;int getRandomNumber(){return 4};display:grid place-content:center;ngrok http 9000" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
+    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Full-stack+developer;pnpm dev;kubectl apply -f ingress.yml;Professional Proompter;Late-night+coffee+drinker;$\forall_x \in \mathbb{N}$;:wq;int getRandomNumber(){return 4};display:grid place-content:center;ngrok http 9000" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
 </p>
 
 <p style="color: #FFDEAD">
@@ -20,11 +20,10 @@
     </summary>
     <div>
         <ul>
-            <!-- <li><a href="https://hymnai.net" target="_blank" rel="noopener noreferrer" style="color: #FFD700">HymnAI</a></li> -->
+            <li><a href="https://simpletext.dev" target="_blank" rel="noopener noreferrer" style="color: #FFD700">simpletext</li>
+            <li><a href="https://doorshop.app" target="_blank" rel="noopener noreferrer" style="color: #FFD700">DoorShop</li>
+            <li><a href="https://docudiver.com" target="_blank" rel="noopener noreferrer" style="color: #FFD700">DocuDiver</li>
             <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li>
-            <!-- <li><a href="https://github.com/charliemeyer2000/TwitterToLCD" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">TwitterToLCD</li> -->
-            <!-- <li><a href="https://github.com/IROATUVA" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">IRO Treasurer Site</a></li> -->
-            <li><a href="https://github.com/charliemeyer2000/logging-repository" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">Logging Repository</a></li>
             <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">A Mystery Project🥸</a></li>
             <li><a href="https://github.com/charliemeyer2000?tab=repositories" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">All Repositories</a></li>
         </ul>
@@ -53,7 +52,7 @@
         <img src="https://media0.giphy.com/media/t6Kf2qs5fgWiAlOig5/giphy.gif?cid=6c09b952lyqbbxplpsn9zdg4u2k1hw0nr1v57em0q6bye0x0&rid=giphy.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em"> Languages and Tools </h1>
     </summary>
-    <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /></a><a href="https://python.langchain.com/docs/get_started/introduction.html" target="_blank" rel="noopener noreferer"><img src="https://em-content.zobj.net/thumbs/160/apple/155/parrot_1f99c.png" alt="langchain" width="40" height="40" /></a><a href="https://pypi.org/project/chromadb/" target="_blank" rel="noopener noreferer"><img src="https://docs.trychroma.com/img/chroma.png" alt="chromadb"  height="40" /></a><a href="https://www.pinecone.io/" target="_blank" rel="noopener noreferer"><img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" alt="pinecone"  height="40" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres"  height="40" /></a></p>
+    <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /></a><a href="https://python.langchain.com/docs/get_started/introduction.html" target="_blank" rel="noopener noreferer"><img src="https://em-content.zobj.net/thumbs/160/apple/155/parrot_1f99c.png" alt="langchain" width="40" height="40" /></a><a href="https://pypi.org/project/chromadb/" target="_blank" rel="noopener noreferer"><img src="https://docs.trychroma.com/img/chroma.png" alt="chromadb"  height="40" /></a><a href="https://www.pinecone.io/" target="_blank" rel="noopener noreferer"><img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" alt="pinecone"  height="40" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres"  height="40" /></a><a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/vercel-icon-512x449-3422jidz.png" alt="css3" width="40" height="40"/> </a><a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="css3" width="40" height="40"/> </a><a href="https://sentry.io/welcome" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/sentry-logo-36928B74C1-seeklogo.com.png" alt="css3" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="css3" width="60" height="40"/> </a></p>
 
 </details>
 
@@ -74,74 +73,48 @@
     <ul>
         <li><h2 style="color: #FFDEAD">YouTube Creators</h2>
         <ul>
-            <li style="display:inline"><a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noopener noreferrer"style="color: #FFD700">WebDev Simplified</a></li>
             <!-- 
             <li style="display:inline; color: #FFD700"> | </li>
             I would add bars between everythingn but github markdown doesn't style things horizontally for lists.
             -->
-            <li style="display:inline"><a href="https://www.youtube.com/@LukeSmithxyz" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Luke Smith</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@Fireship" style="color: #FFD700"target="_blank" rel="noopener noreferrer">FireShip</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@freecodecamp" style="color: #FFD700"target="_blank" rel="noopener noreferrer">freeCodeCamp.org</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@supersimpledev" style="color: #FFD700"target="_blank" rel="noopener noreferrer">SuperSimpleDev</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@itsdineshvaryani" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Dinesh Varyani</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@piratekingdom"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Pirate King</a></li>
+            <li style="display:inline"><a href="https://www.youtube.com/@t3dotgg" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Theo/t3.gg</a></li>
+            <li style="display:inline"><a href="https://www.youtube.com/@DanAbramov8" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Dan Aramov</a></li>
+            <li style="display:inline"><a href="https://www.youtube.com/@bholmesdev" style="color: #FFD700"target="_blank" rel="noopener noreferrer">Ben Holmes</a></li>
             <li style="display:inline"><a href="https://www.youtube.com/@tom7"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Suckerpinch/Tom7</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@paulmcwhorter"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Paul McWhorter</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@AutomationBD"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Automation BD</a></li>
             <li style="display:inline"><a href="https://www.youtube.com/@BenEater"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Ben Eater</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@SeniorMarsTries"style="color: #FFD700"target="_blank" rel="noopener noreferrer">SeniorMars</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@TraversyMedia"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Traversy Media</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@Darwady2"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Dan Arwady</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/@bawad"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Ben Awad</a></li>
-            <li style="display:inline"><a href="https://www.youtube.com/c/FKnight"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Forrest Knight</a></li>
         </ul>
         </li> 
         <li><h2 style="color: #FFDEAD">Helpful Websites/Tools</h2>
         <ul>
             <li style="display:inline"><a href="https://openai.com/blog/chatgpt/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">ChatGPT</a></li>
+            <li style="display:inline"><a href="https://claude.ai"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Claude</a></li>
             <li style="display:inline"><a href="https://stackoverflow.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Stack Overflow</a></li>
             <li style="display:inline"><a href="https://www.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google</a></li>
             <li style="display:inline"><a href="https://midjourney.com/home/?callbackUrl=%2Fapp%2F"style="color: #FFD700"target="_blank" rel="noopener noreferrer">MidJourney</a></li>
-            <li style="display:inline"><a href="https://www.freecodecamp.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">FreeCodeCamp</a></li>
-            <li style="display:inline"><a href="https://mui.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Mui</a></li>
-            <li style="display:inline"><a href="https://developers.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Developers</a></li>
-            <li style="display:inline"><a href="https://www.vultr.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Vultr</a></li>
+            <li style="display:inline"><a href="https://aws.amazon.com/cdk/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">AWS + CDK</a></li>
             <li style="display:inline"><a href="https://github.com/markodenic/web-development-resources"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub Repo of WebDev Resources</a></li>
-            <li style="display:inline"><a href="https://domains.google/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Domains</a></li>
-            <li style="display:inline"><a href="https://www.codecademy.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Codeacademy</a></li>
             <li style="display:inline"><a href="https://github.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Git/Github</a></li>
             <li style="display:inline"><a href="https://www.svgrepo.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">SVGRepo</a></li>
             <li style="display:inline"><a href="https://www.figma.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Figma</a></li>
-            <li style="display:inline"><a href="https://mxtoolbox.com/diagnostic.aspx"style="color: #FFD700"target="_blank" rel="noopener noreferrer">MXToolbox</a></li>
-            <li style="display:inline"><a href="https://www.wireshark.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Wireshark</a></li>
         </ul>
         <li><h2 style="color: #FFDEAD">My Workflow</h2>
         <ul>
-            <li style="display:inline"><a href="https://www.notion.so/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Notion</a></li>
             <li style="display:inline"><a href="https://code.visualstudio.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">VSCode</a></li>
-            <li style="display:inline"><a href="https://pandoc.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Pandoc</a></li>
-            <li style="display:inline"><a href="https://www.sublimetext.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Sublime Text</a></li>
-            <li style="display:inline"><a href="https://jupyter.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Jupyter</a></li>
-            <li style="display:inline"><a href="https://www.mozilla.org/en-US/firefox/new/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Firefox</a></li>
+            <li style="display:inline"><a href="https://arc.net/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Arc</a></li>
             <li style="display:inline"> <a href="https://www.figma.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Figma</a></li>
             <li style="display:inline"><a href="https://discord.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Discord</a></li>
             <li style="display:inline"><a href="https://open.spotify.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Spotify</a></li>
-            <li style="display:inline"><a href="https://www.jetbrains.com/idea/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">IntelliJ</a></li>
         </ul>
         <li><h2 style="color: #FFDEAD">My Fav Fullstack Tools</h2>
             <ul>
                 <li style="display:inline"><a href="https://react.dev/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">React</a></li>
-                <li style="display:inline"><a href="https://redux.js.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Redux</a></li>
-                <li style="display:inline"><a href="https://nextjs.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Nextjs</a></li>
-                <li style="display:inline"><a href="https://github.com/css-modules/css-modules"style="color: #FFD700"target="_blank" rel="noopener noreferrer">CSS Modules</a></li>
-                <li style="display:inline"><a href="https://www.docker.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Docker</a></li>
-                <li style="display:inline"><a href="https://www.nginx.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Nginx</a></li>
-                <li style="display:inline"><a href="https://www.mongodb.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">MongoDB</a></li>
-                <li style="display:inline"><a href="https://firebase.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Firebase</a></li>
-                <li style="display:inline"><a href="https://cloud.google.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Google Cloud</a></li>
+                <li style="display:inline"><a href="https://nextjs.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">NextJS</a></li>
+                <li style="display:inline"><a href="https://ui.shadcn.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">shadcn/ui</a></li>
                 <li style="display:inline"><a href="https://vercel.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Vercel</a></li>
                 <li style="display:inline"><a href="https://github.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">GitHub</a></li>
-                <li style="display:inline"><a href="https://kubernetes.io/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Kuberenetes</a></li>
+                <li style="display:inline"><a href="https://sentry.io/welcome/?"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Sentry</a></li>
+                <li style="display:inline"><a href="https://aws.amazon.com/cdk/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">AWS + CDK</a></li>
+                <li style="display:inline"><a href="https://expo.dev"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Expo</a></li>
             </ul>
         <li><h2 style="color: #FFDEAD">Resources for my Readme</h2>
         <ul>
