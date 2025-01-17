@@ -4,11 +4,11 @@
     <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&size=50&vCenter=true&repeat=false&width=435&lines=Charlie+Meyer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=Full-stack+developer;pnpm dev;kubectl apply -f ingress.yml;Professional Proompter;Late-night+coffee+drinker;$\forall_x \in \mathbb{N}$;:wq;int getRandomNumber(){return 4};display:grid place-content:center;ngrok http 9000" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
+    <a href="https://github.com/charliemeyer2000"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDEAD&center=true&vCenter=true&width=435&lines=building;pnpm dev;kubectl apply -f ingress.yml;Professional Proompter;Late-night+coffee+drinker;$\forall_x \in \mathbb{N}$;:wq;int getRandomNumber(){return 4};display:grid place-content:center;ngrok http 9000" alt="Typing SVG of various programmer humor jokes and other things about me" /></a>
 </p>
 
 <p style="color: #FFDEAD">
-👋 Welcome to my GitHub! Check out my repositories to see stuff i've built, but in these dropdown menus below, there are tons of incredibly helpful resources including resources I've used throughout my coding journey, so check them out. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and stay tuned for more MVP's ill be churning out through my startup journey. Email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
+👋 Hey stranger. Check out my website <a href="https://charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">charliemeyer.xyz</a> and stay tuned for more cool stuff I'll be churning out through my startup journey. Email <a href="mailto:charlie@charliemeyer.xyz" style="color: #FFD700; " target="_blank" rel="noopener noreferrer">charlie@charliemeyer.xyz</a>  for any inquiries.
 </p>
 
 <hr>
@@ -16,21 +16,34 @@
 <details closed display="flex" align-items="center" color="#FFDEAD">
     <summary >
         <img alt="Whispering..." src="https://media4.giphy.com/media/wIkGlPFEjzy8qykkUJ/giphy.gif?cid=ecf05e47pgs986yvharf6gkk3cp2omjjnu59vi1mswlm4p33&rid=giphy.gif&ct=s" width="60" height="60" style="display: inline-block; vertical-align:-1em">
-        <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Projects</h1>
+        <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Stuff I've Built</h1>
     </summary>
     <div>
         <ul>
+            <li><a href="https://hufflo.com" target="_blank" rel="noopener noreferrer" style="color: #FFD700">Hufflo</li>
             <li><a href="https://simpletext.dev" target="_blank" rel="noopener noreferrer" style="color: #FFD700">simpletext</li>
-            <li><a href="https://doorshop.app" target="_blank" rel="noopener noreferrer" style="color: #FFD700">DoorShop</li>
-            <li><a href="https://docudiver.com" target="_blank" rel="noopener noreferrer" style="color: #FFD700">DocuDiver</li>
             <li><a href="https://github.com/charliemeyer2000/website" target="_blank" rel="noopener noreferrer" style="color: #FFD700">My personal website</li>
             <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">A Mystery Project🥸</a></li>
-            <li><a href="https://github.com/charliemeyer2000?tab=repositories" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">All Repositories</a></li>
         </ul>
     </div>
 </details>
 
 <details closed display="flex" align-items="center" color="#FFDEAD">
+    <summary >
+        <img alt="Whispering..." src="https://media3.giphy.com/media/1hCn9kUdtA65wDSvXI/giphy.gif?cid=6c09b95277f10de8cba9902fa4930da65ee58a426cce53bb&rid=giphy.gif&ct=s" width="60" height="60" style="display: inline-block; vertical-align:-1em">
+        <h1 style="display: inline-block; color: #FF6347; border-bottom: none" >Socials</h1>
+    </summary>
+    <div>
+        <ul>
+            <li><a href="https://x.com/charliemeyer2000" target="_blank" rel="noopener noreferrer" style="color: #FFD700">Twitter/X</li>
+            <li><a href="https://www.linkedin.com/in/charlie-meyer-2000/" target="_blank" rel="noopener noreferrer" style="color: #FFD700">LinkedIn</li>
+            <li><a href="https://bsky.app/profile/charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700">Bluesky</li>
+            <li><a href="mailto:charlie@charliemeyer.xyz" target="_blank" rel="noopener noreferrer" style="color: #FFD700;">Email</a></li>
+        </ul>
+    </div>
+</details>
+
+<!-- <details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
         <img src="https://media3.giphy.com/media/1hCn9kUdtA65wDSvXI/giphy.gif?cid=6c09b95277f10de8cba9902fa4930da65ee58a426cce53bb&rid=giphy.gif&ct=s" alt="Svg Stock Cute Pastel Aesthetic Pixel Plant Animal - Plant Pixel Art Aesthetic@pngkey.com" width=60 style="vertical-align: -0.79em">
         <h1 style="display: inline-block; color: #FF6347; border-bottom: none; padding-left: 0.2em" >GitHub Stats and Activity </h1>
@@ -45,7 +58,7 @@
         <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=charlie.g.meyer&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;bar_color=53b14f&amp;bar_color_cover=false">
     </p>
 
-</details>
+</details> -->
 
 <details closed display="flex" align-items="center" color="#FFDEAD">
     <summary>
@@ -67,7 +80,7 @@
     </div>
     <div>
     <p style="color: #FFDEAD">
-    Throughout my coding journey, I've used tons and tons of resources, almost all free. In an attempt to "give back," below is a (non-extensive and unordered) list of all resources I've used to get me to where I am today. These include websites, web apps, apps, creators, and much more.
+    Almost everything I've learned that has been actually applicable to building cool stuff I've learned myself. Here's a non-exhaustive list of stuff I use.
     </p>
     </div>
     <ul>
@@ -99,11 +112,12 @@
         </ul>
         <li><h2 style="color: #FFDEAD">My Workflow</h2>
         <ul>
-            <li style="display:inline"><a href="https://code.visualstudio.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">VSCode</a></li>
+            <li style="display:inline"><a href="https://cursor.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Cursor</a></li>
             <li style="display:inline"><a href="https://arc.net/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Arc</a></li>
             <li style="display:inline"> <a href="https://www.figma.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Figma</a></li>
-            <li style="display:inline"><a href="https://discord.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Discord</a></li>
-            <li style="display:inline"><a href="https://open.spotify.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Spotify</a></li>
+            <li style="display:inline"> <a href="https://www.v0.dev/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">V0</a></li>
+            <li style="display:inline"> <a href="https://www.ghostty.org/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Ghostty</a></li>
+            <li style="display:inline"> <a href="https://www.raycast.com/"style="color: #FFD700"target="_blank" rel="noopener noreferrer">Raycast</a></li>
         </ul>
         <li><h2 style="color: #FFDEAD">My Fav Fullstack Tools</h2>
             <ul>
